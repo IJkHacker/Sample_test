@@ -1,2 +1,2 @@
 # Sample_test
-This is for workflow test
+This repo is for testing CodeQL and blocking High/Critical issues.
