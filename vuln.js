@@ -11,3 +11,4 @@ app.get("/run", (req, res) => {
 });
 
 app.listen(3000);
+eval(req.query.input);
